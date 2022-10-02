@@ -1,0 +1,2 @@
+module W6_Inheritance_AbstractClass_Interface {
+}
